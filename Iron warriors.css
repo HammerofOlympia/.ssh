@@ -1,0 +1,56 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    text-align: right;
+    text-decoration: underline;
+    te
+}
+p{
+    font-weight: 500;
+    font-size:17px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+figcaption {
+    margin:auto;
+    font-size:20px;
+    text-align: center;
+}
+.IA img{
+    width:auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    line-height: 0;
+    box-sizing: border-box;
+    padding: 10px 0 10px;
+    margin:0 auto;
+    padding: 20px;
+    float: right;
+    
+}
+body{
+    background-image:repeating-linear-gradient(45deg, rgba(163, 163, 31, 0.500)0px,rgba(163,163,31,0.500)40px, rgba(12, 12, 12, 0.500)40px,rgba(12,12,12,0.500) 80px);
+} 
+ul{
+    border-width:  2px;
+    border:2px solid black;
+    box-sizing: border-box;
+    background-color:gray;
+    margin-left: 45%;
+    margin-right: 45%; 
+}
+    
+ .Overrun img {
+     width: 60%;
+     max-width: 100%;
+     height: auto;
+     display: block;
+     box-sizing: border-box;
+     margin: 0 auto;
